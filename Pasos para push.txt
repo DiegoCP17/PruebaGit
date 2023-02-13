@@ -1,0 +1,6 @@
+Pasos para hacer el primer push desde consola con git 
+
+git status=> sirve para ver que es lo que nos falta por guardar en nuestro repositorio
+git add +el nombre del archivo => para agregar el archivo al repositorio
+git commit -m "algun comentario aqui sobre el archivo"
+git push -u origin master=> para subir completamente el archivo a nuestro repositorio 
