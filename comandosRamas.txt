@@ -1,0 +1,9 @@
+git branch => nos dice en que rama estamos parados ahora
+git branch +nombre de la rama que queramor crear
+git branch -m +nombre actual de la rama y luego el nombre nuevo
+git checkout ramita1 => para cambiar de rama
+git branch -d +nombre de rama a borrar => para borrar rama 
+
+touch "nombre del archivo nuevo"=>para crear un nuevo archivo
+git add + el nombre del archivo=> para agregar archivos especificos
+git add. = para agregar todos los archivos juntosgit c
