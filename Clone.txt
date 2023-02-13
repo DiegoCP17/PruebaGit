@@ -1,0 +1,5 @@
+Pasos par hacer clon en git
+
+se utilizar para clonar todo un repositorio remoto hacia nuestro pc
+
+git clone +url de donde quiero clonar el repositorio
